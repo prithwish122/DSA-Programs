@@ -132,4 +132,9 @@ int precedence(char ch)
 char peek(stack *s)
 {
 	return(s->arr[s->TOP]);
+
+
+
+
+
 }

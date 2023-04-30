@@ -39,3 +39,5 @@ int main()
     int status=push(&s1,17);
     x=isfull(&s1);
 }
+
+

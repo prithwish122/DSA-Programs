@@ -3,7 +3,7 @@
 #include<ctype.h>
 #include<string.h>
 typedef struct stack
-{
+{ 
 	int TOP;
 	int size;
 	char *arr;

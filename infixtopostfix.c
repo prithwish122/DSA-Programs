@@ -10,7 +10,7 @@ typedef struct stack
     int size;
     char *arr;
 
-}stack;
+}stack;     
 
 void init(stack *s,int size)
 {

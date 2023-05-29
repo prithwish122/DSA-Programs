@@ -16,7 +16,7 @@ int binarysearch(int a[],int length,int key)
 
     else if(a[mid]<key)
             l=mid+1;
-
+     
     else
             u=mid-1;
     }

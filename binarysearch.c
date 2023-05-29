@@ -25,7 +25,7 @@ int binarysearch(int a[],int length,int key)
     else
     return -1;
 
-}
+}              
 
 int main()
 {

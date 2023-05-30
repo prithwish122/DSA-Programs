@@ -7,7 +7,7 @@
 typedef struct stack{
 	int top;
 	int size;
-	char* arr;
+	char* arr;    
 }stack;
 
 

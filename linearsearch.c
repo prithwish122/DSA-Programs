@@ -15,7 +15,7 @@ int linearSearch(int a[], int l, int key){
     return pos;
 }
      
-int main(){
+int main(){           
     int arr[10];
     int searchKey, length, position, flag;
     printf("Enter no. of elements of array: ");

@@ -13,7 +13,7 @@ int linearSearch(int a[], int l, int key){
             pos = -1;         
     }
     return pos;   
-}
+} 
      
 int main(){           
     int arr[10];

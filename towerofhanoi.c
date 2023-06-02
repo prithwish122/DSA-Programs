@@ -15,7 +15,7 @@ int main()
 	return 0;
 }
 
-int Tower_of_Hanoi(int n, char src, char aux, char dest)
+int Tower_of_Hanoi(int n, char src, char aux, char dest) 
 {
 	if(n==0)
 	{

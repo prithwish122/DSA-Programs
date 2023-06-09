@@ -14,7 +14,7 @@ int binarysearch(int a[],int length,int key)
             break;
         }
 
-    else if(a[mid]<key)
+    else if(a[mid]<key)   
             l=mid+1;
      
     else

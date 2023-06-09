@@ -1,5 +1,5 @@
 #include<stdio.h>
-int binarysearch(int a[],int length,int key)
+int binarysearch(int a[],int length,int key)   
 {
     int l=0,u=length-1,mid,flag;
     

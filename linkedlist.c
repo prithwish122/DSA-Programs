@@ -6,7 +6,7 @@
 
 //creating Linked List datastructure
 typedef struct Node{
-    int data;
+    int data; 
     struct Node *next; 
 }Node;
 

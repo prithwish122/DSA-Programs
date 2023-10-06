@@ -8,7 +8,7 @@ int binarysearch(int a[],int length,int key)
         mid=(l+u)/2;
 
 
-    if(a[mid]==key)
+    if(a[mid]==key) 
         {
             flag=1;
             break;

@@ -11,7 +11,7 @@ int binarysearch(int a[],int length,int key)
     if(a[mid]==key) 
         {
             flag=1;
-            break;
+            break; 
         }
 
     else if(a[mid]<key)   
